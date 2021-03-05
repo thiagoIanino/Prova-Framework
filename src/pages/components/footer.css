@@ -1,0 +1,22 @@
+.main{
+margin-top: 124px;
+
+    background-color: gray;
+   
+    height: 50px;
+    width: 100%;
+    
+    margin-bottom: 0px;
+
+    display: flex;
+    justify-content:center;
+
+   ;
+}
+.main p{
+    margin-top: 18px;
+    color:white
+}
+.main p svg{
+    color: red;
+}
