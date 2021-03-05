@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Meu primeiro Projeto com React e TS! Comecei a aprender a tecnologia há cerca de 3 semanas e estou gostando muito! Espero que goste!
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
